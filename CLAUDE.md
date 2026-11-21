@@ -16,7 +16,7 @@
 - **Server Support:** Server-specific folders (`cn`, `gl-cn`, `gl-en`, `kr`) with localized `pets.csv` and versioned `jobs_YYMMDD.csv`.
 
 ### Technologies
-- **Language:** Python 3.8+
+- **Language:** Python 3.10+
 - **Solver:** `PuLP`
 - **Web UI:** `streamlit`
 - **Data Manipulation:** `pandas`

@@ -26,7 +26,7 @@ cd C:\Users\YourName\Desktop\trickcal-team-optimizer
 进入文件夹后，运行以下**一键安装指令**，它会自动为您创建环境并安装所有依赖：
 
 ```bash
-conda create -n petdispatch python=3.9 -y && conda activate petdispatch && pip install -r requirements.txt
+conda create -n petdispatch python=3.10 -y && conda activate petdispatch && pip install -r requirements.txt
 ```
 
 ## 第四步：运行计算器

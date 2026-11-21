@@ -26,7 +26,7 @@ cd C:\Users\YourName\Desktop\trickcal-team-optimizer
 Once inside the folder, run this **one-liner** to create the environment and install everything automatically:
 
 ```bash
-conda create -n petdispatch python=3.9 -y && conda activate petdispatch && pip install -r requirements.txt
+conda create -n petdispatch python=3.10 -y && conda activate petdispatch && pip install -r requirements.txt
 ```
 
 ## Step 4: Run the Calculator

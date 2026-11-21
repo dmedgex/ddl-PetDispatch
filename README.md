@@ -49,7 +49,7 @@ Click [this link](https://trickcal-pet-dispatcher.streamlit.app/) to use the onl
 If you have **Miniconda** or **Anaconda** installed, run this in your terminal inside the project folder:
 
 ```bash
-conda create -n petdispatch python=3.9 -y && conda activate petdispatch && pip install -r requirements.txt
+conda create -n petdispatch python=3.10 -y && conda activate petdispatch && pip install -r requirements.txt
 ```
 
 ### 💻 How to Use
@@ -95,7 +95,7 @@ python main.py --config your_config.json --lang en
 如果您已安装 **Miniconda** 或 **Anaconda**，请在项目文件夹内运行：
 
 ```bash
-conda create -n petdispatch python=3.9 -y && conda activate petdispatch && pip install -r requirements.txt
+conda create -n petdispatch python=3.10 -y && conda activate petdispatch && pip install -r requirements.txt
 ```
 
 ### 💻 使用说明
